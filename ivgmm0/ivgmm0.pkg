@@ -1,4 +1,4 @@
-D 'DEA': Data envelopment analysis
+D 'ivgmm0': Instrumental variables via Generalized Method of Moments Use ivgmm0 With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F ivgmm0.ado
+F ivgmm0.hlp
