@@ -1,6 +1,8 @@
 # ivgmm0
 Instrumental variables via Generalized Method of Moments Use ivgmm0 With STATA 19
 
+https://www.youtube.com/watch?v=58xs8y_uPF4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
